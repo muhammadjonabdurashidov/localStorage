@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+}
+
+.btn {
+  cursor: pointer;
+ margin-left: 20px;
+ padding: 10px 13px;
+ background-color: dodgerblue;
+ color: white;
+ border: none;
+ border-radius: 10px;
+}
